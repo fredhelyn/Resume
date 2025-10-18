@@ -1,2 +1,104 @@
-# Resume
-DCIT 21A
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Resume</title>
+	</head>
+ <body>
+
+<h2>Layderos, Fredhelyn M.</h2>
+<p><b>Work:</b> Student</p>
+<p><b>Contact Number:</b><u> +639813796633</u></p>
+<p><b>Email:</b> fredhelyn.layderos@cvsu.edu.ph</p>
+<p><b>Address:</b> Green Point Homes, Mambog 4, Bacoor, Cavite</p>
+
+
+<br>
+
+<!-- personal info -->
+<h2>PERSONAL INFORMATION</h2>
+
+<p><b>Age:</b> 18 </p>
+<p><b>Date of Birth:</b> March 06, 2007 </p>
+<p><b>Sex:</b> Female </p>
+<br>
+<p><b>Status:</b> Single </p>
+<p><b>Citizenship:</b> Filipino </p>
+<p><b>Religion:</b> Catholic </p>
+
+<br>
+
+<!-- educational -->
+<h2>EDUCATIONAL ATTAINMENT</h2>
+
+<h5><b>ELEMENTARY: BATCH 2013-2017</b></h5> 
+<p>Mabaus Elementary School, Davao, City</p>
+<br>
+<h5><b>JUNIOR HIGH SCHOOL: BATCH 2019-2023</b></h5> 
+<p>Marvelous Faith Academy, Bacoor, Cavite</p>
+<br>
+<h5><b>SENIOR HIGH SCHOOL: BATCH 2023-2025</b></h5> 
+<p>SHS in San Nicholas III, Bacoor, Cavite</p>
+<br>
+<h5><b>COLLEGE: BATCH 2025 - 20**</b></h5> 
+<p>Cavite State University Imus - Campus, Imus, Cavite</p>
+
+<br>
+
+<!-- skills -->
+<h2>SOFT SKILLS</h2>
+
+<h5><b>CREATIVITY:</b></h5> 
+<p> Painting, Crafting, Gaming</p>
+<h5><b>LEADERSHIP:</b></h5> 
+<p>Team Sports</p>
+
+<br>
+
+<h2>HARD SKILLS</h2>
+
+<h5><b>COMPUTER LITERATE (BASIC):</b></h5> 
+<p>MS Word, MS PowerPoint, Canva</p>
+<h5><b>WEB PROGRAMMMING:</b></h5> 
+<p>HTML</p>
+<br>
+
+<!-- seminar -->
+<h2>SEMINAR ATTENDED</h2>
+
+<br>
+
+<!-- character ref -->
+<h2>CHARACTER REFERENCES</h2>
+<h5>YZABELLA ARETA:</h5>
+<p>Student</p>
+<br>
+<h5>UNO:</h5>
+<p>Posa</p>
+<br>
+<h5>EL:</h5>
+<p>Student</p>
+<br>
+
+
+<br>
+
+<!-- achievements -->
+<h2>ACHIEVEMENTS</h2>
+
+<h5><b>4TH HONOR</b></h5> 
+<p>Grade 1 S.Y 2013 - 2014</p>
+<br>
+<h5><b>3RD HONOR</b></h5> 
+<p>Grade 3 S.Y 2015 - 2016</p>
+<br>
+<h5><b>ACADEMIC EXCELLENCE AWARD -  WITH HONORS</b></h5> 
+<p>Grade 10 S.Y 2022 - 2023</p>
+<br>
+<h5><b>ACADEMIC EXCELLENCE AWARD -  WITH HONORS</b></h5> 
+<p>Grade 11 S.Y 2023 - 2024</p>
+<br>
+<h5><b>ACADEMIC EXCELLENCE AWARD -  WITH HONORS</b></h5> 
+<p>Grade 12 S.Y 2024 - 2025</p>
+
+</body>
+</html>
